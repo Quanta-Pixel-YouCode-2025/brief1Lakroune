@@ -1,1 +1,1 @@
-hkdshfdsjk
+Je me présente, voici mon brief. Première étape, j’ai téléchargé le template et ensuite ouvert ce template sur Visual Studio Code. Après, j’ai travaillé sur la page index, une page que nous avons améliorée en multi-page pour que quatre fonctionnalités se retrouvent sur des pages à part. Nous les avons dissociées et ajouté une petite modification sur les quatre pages pour utiliser le fichier style.css. Ensuite, nous avons ajouté une page d’inscription. Nous avons travaillé sur la page en HTML et CSS.
