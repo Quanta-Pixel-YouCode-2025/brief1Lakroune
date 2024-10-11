@@ -2,10 +2,40 @@
     position: relative;
     width: 100%;
     height: 100%;
-    background-color: black;
-    /* background-image: url(../imgs/section.jpg); */
+    /* background-color: black; */
+    background-image: url(../imgs/section.jpg);
     /* display: 0.3; */
 }
+
 .headermenu{
-/* background: ; */
+    margin: -15PX;
+    position: relative;
+    width:auto;
+    background: rgba(33, 37, 41, 0.95);
+    background-size:100% ;
+    display: 0.1;
+    height: 120px;
+}
+
+.backg-contre{
+    position: relative;
+    width:auto;
+    background: rgba(255, 255, 255, 0.95);
+    background-size:60% ;
+    /* display: 0.01; */
+    height: 800px; 
+    margin: 0px 50px; 
+    padding: 10% 50%;
+}
+.login{
+    /* margin-top: 100px; */
+    background-color: azure;
+    width: 700px;
+    height: 300px;
+}
+.table-mune{
+    padding: 1cm 2cm;
+}
+tr{
+margin-left: 60px;
 }
